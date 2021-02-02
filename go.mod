@@ -1,3 +1,3 @@
-module github.com/ayzatziko/version/v2
+module github.com/ayzatziko/version
 
 go 1.15
