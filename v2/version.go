@@ -1,3 +1,3 @@
 package version
 
-const Version string = "v2.0.7+20200202"
+const Version string = "v2.0.6-20200203"
